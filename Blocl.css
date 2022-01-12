@@ -1,0 +1,21 @@
+block{
+    boder:1px solid blue
+    margin-bottom:50px;
+    display:block;
+    height:200px;
+    widht:200px;
+}
+inline{
+    border: 1px solid red;
+    display: block;
+    height: 200px;
+    weight: 200px;
+    margin-top: 20px;
+}
+figure{
+    weight:500px;
+    margin: 0px;
+    padding:0px;
+    border:5px solid gray
+}
+<img :hover>
